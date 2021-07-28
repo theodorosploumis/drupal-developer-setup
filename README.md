@@ -3,7 +3,8 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 
 ## Drupal tools
 - https://github.com/drush-ops/drush-launcher
-- https://lando.dev
+- https://docs.lando.dev
+- https://ddev.readthedocs.io
 - https://github.com/acquia/cli
 - https://github.com/theodorosploumis/generate_drupal_report
 
