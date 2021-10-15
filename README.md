@@ -5,7 +5,7 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 - https://github.com/drush-ops/drush-launcher
 - https://docs.lando.dev
 - https://ddev.readthedocs.io
-- https://github.com/acquia/cli
+- https://github.com/mglaman/drupalorg-cli
 - https://github.com/theodorosploumis/generate_drupal_report
 
 ## Generic tools
@@ -17,11 +17,13 @@ My machine setup (software, tools etc) on Linux that helps me develop with Drupa
 - https://github.com/remi/teamocil
 - https://github.com/nvm-sh/nvm
 - https://github.com/rupa/z
+- https://github.com/tighten/takeout (docker services scaffolding)
+- https://flameshot.org
 
 ## Editors - IDE
 - https://www.jetbrains.com/phpstorm
 - https://www.sublimetext.com
-- https://atom.io
+- https://code.visualstudio.com
 - https://www.vim.org
 
 ## Images - Graphics
